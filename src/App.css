@@ -1,0 +1,143 @@
+body {
+  padding: 2%;
+  font-family: "Roboto";
+  background-color: #F2F7FB;
+  line-height: 1.2;
+  font-size: 1.6rem;
+  color: #4A4A4A;
+}
+
+.errors {
+  margin: 0.5rem 1.2rem;
+  color: red;
+  font-size: 0.9em;
+}
+
+.cip-form-field {
+  margin-bottom: 2.3rem;
+}
+
+.form-input {
+  margin-left: 1.6%;
+}
+
+pre {
+  border: none;
+  background-color: #F2F7FB;
+}
+
+.cip-controls-display {
+  height: 570px;
+  width: 100%;
+  border: 2px solid #9d9d9d;
+  overflow-y: scroll;
+  padding: 15px;
+  border-radius: 4px;
+  margin-top: 1rem;
+}
+
+.form-field {
+  margin-top: 15px;
+}
+
+input[type="text"],
+input[type="number"] {
+  border: 1px solid #9d9d9d;
+  border-radius: 4px;
+  padding-left: 2%;
+  margin-right: 8px;
+  line-height: 2.1rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.nav-btns {
+  margin-top: 5%;
+  width: 85%;
+}
+
+.btn-primary, .prev-btn {
+  width: 35%;
+}
+.btn-primary {
+  margin-left: 30%;
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.wizard-form {
+  margin-left: 5%;
+}
+
+.checkbox-inline, .radio-inline {
+  margin-right: 8px;
+  position: relative;
+}
+
+input[type="radio"] {
+  position: relative;
+  margin: 0;
+}
+
+select {
+  margin: 5px 7px 12px;
+}
+
+.node-field {
+  margin: 8px 0;
+}
+
+.select-options {
+  margin-top: 0.9rem;
+}
+
+.col-sm-5 {
+  padding: 2% 0 0 3%;
+}
+
+.btn-block {
+  display: block;
+  width: 70%;
+  font-size: 1.6rem;
+  margin: 8%;
+}
+
+strong {
+  font-weight: 400;
+}
+
+label {
+  color: #18A0B3;
+}
+
+.format-json-btn {
+  color: #607D8B;
+  margin: 0 35%;
+}
+
+.add-btn {
+  background-color: #55c6d6;
+  color: #F2F7FB;
+}
+
+.question {
+  margin-bottom: 2%;
+}
+
+.radio-div {
+  margin-bottom: 1.3%;
+}

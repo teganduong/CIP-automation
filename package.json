@@ -1,0 +1,30 @@
+{
+  "name": "CIP-automation",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Tegan Duong",
+  "homepage": "https://cip-builder.synapsefi.com/",
+  "devDependencies": {
+    "react-scripts": "0.7.0",
+    "redux-devtools": "^3.3.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.6",
+    "react-redux-form": "^1.2.4",
+    "redux": "^3.6.0",
+    "redux-devtools-extension": "^1.0.0",
+    "redux-thunk": "^2.1.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
